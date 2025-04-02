@@ -15,5 +15,8 @@
 
     https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view
 
+# Open Source Vector Database : Chroma
+    https://docs.trychroma.com/docs/overview/introduction
+
 # My NoteBook : 
     https://notebooklm.google.com/notebook/06228dda-cd40-4cf4-ad3d-4ba1d2dca723?original_referer=https:%2F%2Fwww.google.com%23&pli=1
